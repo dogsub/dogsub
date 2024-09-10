@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=99CCFF&text=Welcome%20to%20my%20GitHub:)&reversal=false" />
+ <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&text=Welcome%20to%20my%20GitHub:)&reversal=false" />
 </div>
 
 <!--내용 부분-->
@@ -8,6 +8,7 @@
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/Kotlin-F18E33?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
+ <img alt="UIKit" src ="https://img.shields.io/badge/UIKit-#7d0c7.svg?&style=for-the-badge&logo=UIKit&logoColor=white" />
 </div>
 
 <div align="center">
