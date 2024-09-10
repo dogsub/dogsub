@@ -9,10 +9,14 @@
  <img src="https://img.shields.io/badge/Kotlin-F18E33?style=for-the-badge&logo=Kotlin&logoColor=white">
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+</div>
+
+<div align="center">
  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
 <br>
+
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-F18E33?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
