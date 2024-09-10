@@ -41,7 +41,7 @@
 
 <h3 align="center">📊 Statistics 📊</h3>
 <div style="text-align: center; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogsub-p0p&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.4&count_weight=0.4" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogsub&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.4&count_weight=0.4" style="max-width: 100%; height: auto;" />
 </div>
 
 <br>
