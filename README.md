@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/Kotlin-F18E33?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
- <img alt="UIKit" src ="https://img.shields.io/badge/UIKit-#7d0c7.svg?&style=for-the-badge&logo=UIKit&logoColor=white" />
+ <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=UIKit&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
