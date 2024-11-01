@@ -26,7 +26,7 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/teamcity/build/s/:buildId" />&nbsp
+  <img src="https://img.shields.io/badge/intellijidea-007396?style=for-the-badge&logo=java&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />&nbsp
 </div>
 
@@ -41,6 +41,6 @@
 <div align="center">
   <a href="ehdtjq0909@gmail.com">
     <img
-      src="https://img.shields.io/badge/ehdtjq9999@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/ehdtjq0909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
