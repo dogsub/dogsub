@@ -26,14 +26,12 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/teamcity/build/s/:buildId" />&nbsp
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
- <img src="https://img.shields.io/badge/Android Stuido-3DDC84?style=for-the-badge&logo=Android&logoColor=F9AB00" />&nbsp
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
 </div>
 
@@ -41,7 +39,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="ehdtjq9999@naver.com">
+  <a href="ehdtjq0909@gmail.com">
     <img
       src="https://img.shields.io/badge/ehdtjq9999@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
