@@ -26,7 +26,7 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/intellijidea-007396?style=for-the-badge&logo=java&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/intellijidea-#000000?style=for-the-badge&logo=java&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />&nbsp
 </div>
 
