@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&text=Woof!%20Welcome:)&reversal=false" />
+ <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&text=Woof!%20Welcome🐶&reversal=false" />
 </div>
 
 <!--내용 부분-->
