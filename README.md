@@ -62,7 +62,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/dogsub/gitanimals">
-    <img src="https://render.gitanimals.org/farms/dogsub" width="600" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);"/>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/dogsub"/>
   </a>
 </div>
