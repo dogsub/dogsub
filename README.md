@@ -62,7 +62,9 @@
 <br>
 
 <div align="center">
- <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dogsub"/>
- </a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/dogsub" width="600" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);"/>
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/🐾_Visit_My_Git_Farm-FF6B6B?style=for-the-badge&labelColor=4ECDC4"/>
 </div>
