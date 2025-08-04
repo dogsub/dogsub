@@ -32,6 +32,13 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
 </div>
 
+<div>
+
+ <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/dogsub"/>
+ </a>
+</div>
+
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
