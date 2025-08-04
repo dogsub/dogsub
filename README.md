@@ -40,21 +40,13 @@
 <div align="center">
  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
- <img src="https://img.shields.io/badge/Argo CD-0175C2?style=for-the-badge&logo=argo&logoColor=white" />&nbsp
- 
+ <img src="https://img.shields.io/badge/Argo CD-0175C2?style=for-the-badge&logo=argo&logoColor=white" />&nbsp 
 </div>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/intellijidea-0071C5?style=for-the-badge&logo=java&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-</div>
-
 <div>
-
  <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/dogsub"/>
  </a>
@@ -64,8 +56,12 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="ehdtjq0909@gmail.com">
+  <a href="mailto:ehdtjq0909@gmail.com">
     <img
       src="https://img.shields.io/badge/ehdtjq0909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://velog.io/@dogsub" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
   </a>
 </div>
