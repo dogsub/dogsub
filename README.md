@@ -56,12 +56,14 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:ehdtjq0909@gmail.com">
+  <a href="mailto:ehdtjq0909@gmail.com" tabindex="-1">
     <img
-      src="https://img.shields.io/badge/ehdtjq0909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/ehdtjq0909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      draggable="false"/>&nbsp
   </a>
   <a href="https://velog.io/@dogsub" target="_blank" tabindex="-1">
     <img
-      src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"
+      draggable="false"/>&nbsp
   </a>
 </div>
