@@ -7,7 +7,7 @@
 
 <!-- Backend -->
 <div align="center">
-  <strong>✨ Backend:</strong><br><br>
+  <strong>Backend:</strong><br><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
@@ -15,9 +15,9 @@
 
 <br>
 
-<!-- DevOps -->
+<!-- DevOps / Infra -->
 <div align="center">
-  <strong>🚀 DevOps:</strong><br><br>
+  <strong>DevOps / Infra:</strong><br><br>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
@@ -30,7 +30,7 @@
 
 <!-- Monitoring -->
 <div align="center">
-  <strong>📊 Monitoring:</strong><br><br>
+  <strong>Monitoring:</strong><br><br>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />&nbsp
 </div>
