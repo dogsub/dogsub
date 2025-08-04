@@ -60,7 +60,7 @@
     <img
       src="https://img.shields.io/badge/ehdtjq0909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="https://velog.io/@dogsub" target="_blank" style="outline: none;">
+  <a href="https://velog.io/@dogsub" target="_blank" style="outline: none; text-decoration: none;">
     <img
       src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
   </a>
