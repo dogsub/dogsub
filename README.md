@@ -18,10 +18,10 @@
 <!-- DevOps / Infra -->
 <div align="center">
   <strong>DevOps / Infra:</strong><br><br>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Kakao Cloud-FFCD00?style=for-the-badge&logo=cloud&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Argo CD-0175C2?style=for-the-badge&logo=argo&logoColor=white" />&nbsp
 </div>
 
