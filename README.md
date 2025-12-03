@@ -43,7 +43,8 @@
 <div align="center">
  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
- <img src="https://img.shields.io/badge/Argo CD-0175C2?style=for-the-badge&logo=argo&logoColor=white" />&nbsp 
+ <img src="https://img.shields.io/badge/Argo CD-0175C2?style=for-the-badge&logo=argo&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />&nbsp
 </div>
 
 <br>
