@@ -1,8 +1,7 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&text=Woof!%20Welcome🐶&animation=twinkling&fontSize=60&fontColor=fff&reversal=false" />
+ <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&text=Woof!%20Welcome 🐶&animation=twinkling&fontSize=60&fontColor=fff&reversal=false" />
 </div>
 
-<!--오픈소스 과제-->
 <h4 align="center"> HaHaHa It's Me! </h4>
 
 <!--내용 부분-->
