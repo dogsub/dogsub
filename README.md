@@ -25,26 +25,12 @@
 
 <br>
 
-<h3 align="center">🖥️ OS & System</h3>
+<h3 align="center">🖥️ System & Automation</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📦 Container & Orchestration</h3>
-<div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">🚀 CI/CD & GitOps</h3>
-<div align="center">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Argo%20CD-0175C2?style=for-the-badge&logo=argo&logoColor=white" />&nbsp
 </div>
 
 <br>
