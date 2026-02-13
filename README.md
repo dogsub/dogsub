@@ -2,19 +2,14 @@
  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&text=Woof!%20Welcome🐶&animation=twinkling&fontSize=60&fontColor=fff&reversal=false" />
 </div>
 
-<h4 align="center"> HaHaHa It's Me! </h4>
-
 <h4 align="center"> Cloud / System Engineer </h4>
-<p align="center">
-  Linux · Networking · Cloud Infrastructure · IaC · CI/CD · Observability
-</p>
 
 <br>
 
 <h3 align="center">🧭 What I do</h3>
 <div align="center">
   <p>
-    멀티 서브넷 네트워크, 보안 그룹/방화벽, 배포 자동화(CI/CD), 모니터링까지<br>
+    배포 자동화(CI/CD) <br>
     “서비스가 안전하게 돌아가게 만드는 인프라/시스템”을 설계·구축·운영하는 데 관심이 있습니다.
   </p>
 </div>
