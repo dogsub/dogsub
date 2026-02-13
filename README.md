@@ -4,36 +4,6 @@
 
 <h4 align="center"> HaHaHa It's Me! </h4>
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-
-
-<!-- DevOps / Infra -->
-<div align="center">
-  <strong>DevOps / Infra:</strong><br><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Kakao Cloud-FFCD00?style=for-the-badge&logo=cloud&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Argo CD-0175C2?style=for-the-badge&logo=argo&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">🔍 Exploring deeper 🔍</h3>
-<div align="center">
- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
- <img src="https://img.shields.io/badge/Argo CD-0175C2?style=for-the-badge&logo=argo&logoColor=white" />&nbsp
- <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />&nbsp
-</div>
-
-<!-- 보류 -->
-<!-- 보류 -->
-<!-- 보류 -->
-<!-- 보류 -->
-<!-- 보류 -->
-
 <h4 align="center"> Cloud / System Engineer </h4>
 <p align="center">
   Linux · Networking · Cloud Infrastructure · IaC · CI/CD · Observability
