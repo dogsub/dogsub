@@ -6,13 +6,7 @@
 
 <br>
 
-<h3 align="center">🧭 What I do</h3>
-<div align="center">
-  <p>
-    배포 자동화(CI/CD) <br>
-    “서비스가 안전하게 돌아가게 만드는 인프라/시스템”을 설계·구축·운영하는 데 관심이 있습니다.
-  </p>
-</div>
+<h2 align="center">✨ Tech Stack ✨</h2>
 
 <br>
 
