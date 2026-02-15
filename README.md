@@ -6,7 +6,7 @@
 
 <br>
 
-<h3 align="center">__*✨ Tech Stack ✨*</h3>
+__*<h3 align="center">✨ Tech Stack ✨</h3>*
 
 <br>
 
