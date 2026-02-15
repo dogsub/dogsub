@@ -12,7 +12,7 @@
 
 ***
 
-___
+---
 
 <h3 align="center">☁️ Cloud Platforms</h3>
 <div align="center">
