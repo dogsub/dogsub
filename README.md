@@ -6,9 +6,13 @@
 
 <br>
 
-<h2 align="center">✨ Tech Stack ✨</h2>
+<h3 align="center">✨ Tech Stack ✨</h3>
 
-<br>
+---
+
+***
+
+___
 
 <h3 align="center">☁️ Cloud Platforms</h3>
 <div align="center">
