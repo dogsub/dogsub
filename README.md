@@ -8,11 +8,11 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
----
+___
 
 ***
 
----
+___
 
 <h3 align="center">☁️ Cloud Platforms</h3>
 <div align="center">
