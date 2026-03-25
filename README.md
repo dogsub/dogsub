@@ -12,9 +12,9 @@ _<h3 align="center">✨ Tech Stack ✨</h3>_
 
 <h3 align="center">☁️ Cloud Platforms</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Kakao%20Cloud-FFCD00?style=for-the-badge&logo=cloud&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
 </div>
 
 <br>
